@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @badicev
 - 👀 I’m interested in data science and gaming.
-- 🌱 I’m currently learning Game Development with Unity.
-
+- 🌱 I’m currently learning Deep Learning.
 
 
 <!---
