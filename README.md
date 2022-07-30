@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @badicev
-- 👀 I’m interested in data science and gaming.
+- 👀 I’m interested in AI and gaming.
 - 🌱 I’m currently learning Deep Learning.
 
 
