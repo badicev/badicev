@@ -27,5 +27,5 @@
     <a href="https://github.com/badicev/badicev/graphs/contributors"><img src="https://img.shields.io/github/contributors/badicev/badicev?color=blue"></a>
     <a href="https://github.com/badicev/badicev/stargazers"><img src="https://img.shields.io/github/stars/badicev/badicev.svg?logo=github"></a>
     <a href="https://github.com/badicev/badicev/network/members"><img src="https://img.shields.io/github/forks/badicev/badicev.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=badicev.badicev" alt="visitors"/>   
 </p>
