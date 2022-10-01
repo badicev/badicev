@@ -23,9 +23,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=badicev&show_icons=true&locale=en&layout=compact" alt="badicev" /></p>
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/badicev/badicev"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/badicev/badicev/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/badicev/badicev/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/badicev/badicev/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+  
+    <a href="https://github.com/badicev/badicev/graphs/contributors"><img src="https://img.shields.io/github/contributors/badicev/badicev?color=blue"></a>
+    <a href="https://github.com/badicev/badicev/stargazers"><img src="https://img.shields.io/github/stars/badicev/badicev.svg?logo=github"></a>
+    <a href="https://github.com/badicev/badicev/network/members"><img src="https://img.shields.io/github/forks/badicev/badicev.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
 </p>
