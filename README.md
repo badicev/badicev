@@ -23,4 +23,5 @@
 
 
 <!--   grid-snake -->
+<p align="center"> 
 ![](https://github.com/badicev/badicev/blob/output/github-contribution-grid-snake.svg)
