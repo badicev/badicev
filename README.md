@@ -39,7 +39,7 @@
 
 ![](https://github.com/badicev/badicev/blob/output/github-contribution-grid-snake.svg)
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 
 
 
