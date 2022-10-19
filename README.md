@@ -37,7 +37,9 @@
 
 <!--   grid-snake -->
 
-![](https://github.com/badicev/badicev/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://github.com/badicev/badicev/blob/output/github-contribution-grid-snake.svg" />
+</p>
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 
 
