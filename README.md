@@ -14,8 +14,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=badicev&label=Profile%20views&color=0e75b6&style=flat" alt="badicev" /> </p>
 
 
-<h3 align="center">🌱 I’m currently learning Sequence Models</h3>
+<h3 align="center">🌱 I’m currently learning Natural Language Processing in TensorFlow.</h3>
 <h3 align="center">🤖 Sometimes I suspect that I may be a human-looking computer. Because when I was a kid, I used to have a lot of dreams composed of zeros and ones. </h3>
+<h3 align="center">👾 I enjoy gaming a lot.</h3>
 
 
 <h3 align="center">Connect with me:</h3>
@@ -40,7 +41,7 @@
 <p align="center">
 <img src="https://github.com/badicev/badicev/blob/output/github-contribution-grid-snake.svg" />
 </p>
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
 
 
 
