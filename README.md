@@ -2,7 +2,7 @@
 
 <p align="center">
 <!--   my-header-img -->
-<img src="https://github.com/badicev/badicev/blob/main/images/myFoxGif.gif" />
+<img src="https://github.com/badicev/badicev/blob/main/images/kitsune.gif" />
 </p>
 
 <!--   my-ticker -->    
