@@ -40,7 +40,10 @@
 <img src="https://github.com/badicev/badicev/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
+<p align="center">
 
+<img src="https://github.com/badicev/badicev/blob/main/images/hime.png" />
+</p>
 
 
 
