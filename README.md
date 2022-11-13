@@ -42,7 +42,7 @@
 
 <p align="center">
 
-<img src="https://github.com/badicev/badicev/blob/main/images/hime.png" />
+<img src="https://github.com/badicev/badicev/blob/main/images/200w.gif" />
 </p>
 
 
