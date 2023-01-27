@@ -40,6 +40,11 @@
 <img src="https://github.com/badicev/badicev/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
+
+
+https://github-readme-stats.vercel.app/api?username=badicev&show_icons=true&locale=en&theme=chartreuse-dark
+
+
 <p align="center">
 
 
