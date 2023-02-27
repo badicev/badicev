@@ -2,7 +2,7 @@
 
 <p align="center">
 <!--   my-header-img -->
-<img src="https://github.com/badicev/badicev/blob/main/images/giphy.gif"/>
+<img src="https://github.com/badicev/badicev/blob/main/images/myImage.gif"/>
  
 
 
