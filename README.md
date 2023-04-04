@@ -44,9 +44,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badicev&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="stats" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=badicev&show_icons=true&locale=en&theme=gruvbox" alt="stats" width="400" /></p>
-
 
 
 
