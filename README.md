@@ -33,16 +33,6 @@
 
 ---
  
-                                                         Bad, bad snake! 🐍 
-
-
-<!--   grid-snake -->
-
-<p align="center">
-<img src="https://github.com/badicev/badicev/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-
 <p align="center"> For the Love of Birds: <a href="[/about/about_team.htm](https://cultofthepartyparrot.com)">🦜 Party Parrots</a> </p> 
 
 
