@@ -50,7 +50,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/reverseportalblueparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/cryptoparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
