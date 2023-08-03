@@ -20,7 +20,7 @@
 
 <h3 align="center">🌱 </h3>
 <h3 align="center">🤖 Sometimes I suspect that I may be a human-looking computer. Because when I was a kid, I used to have a lot of dreams composed of zeros and ones. </h3>
-<h3 align="center">👾 I enjoy gaming a lot.</h3>
+<h3 align="center">👾 I enjoy gaming a lot. 👾</h3>
 
 
 <h3 align="center">Connect with me:</h3>
