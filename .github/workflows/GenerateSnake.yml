@@ -18,4 +18,4 @@ jobs:
             user_name: badicev
             # Text on contribution graph 
             text: badice
-       - uses: jasineri/simple-push-action@v1
+       
