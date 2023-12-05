@@ -8,7 +8,7 @@
 
 <!--   my-ticker --> 
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I+am+Başak+Dilara+Çevik;+Welcome+to+My+Profile!;AI+enthusiast+from+Turkey&font=Fira%20Code&center=true&color=FFA500&width=500&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I+am+Başak+Dilara+Çevik;+Welcome+to+My+Profile!;AI+enthusiast+Software+Developer+from+Turkey&font=Fira%20Code&center=true&color=FFA500&width=500&height=50&duration=4000&pause=1000">
 </p>
  
    
