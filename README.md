@@ -33,7 +33,7 @@
 
 ---
  
-<p align="center"> For the Love of Birds: <a href="[/about/about_team.htm](https://cultofthepartyparrot.com)">🦜 Party Parrots</a> </p> 
+<p align="center"> For the Love of Birds: <a href="[https://cultofthepartyparrot.com](https://cultofthepartyparrot.com)">🦜 Party Parrots</a> </p> 
 
 
 <div>
